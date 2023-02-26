@@ -47,13 +47,14 @@ width="200"/>
 ---
 
 ### :smiley: &nbsp;My Hobbies:
-
+ 
  * 🎸 Acoustic guitar. My favourite music to play is Oasis, Blossoms, The Kooks and The Smiths.
  * 🪗 Concerts. Personal favourite to date: Liam Gallagher at the o2!
  * 🏎️ Formula 1 and BTCC. Massive fan of Lewis Hamilton.
  * 🏀 Basketball. Boston Celtics fan.
  * ⚽ Football. Southend United FC fan.
  * 🎧 Music - all sorts!
+ * 🇵🇱🏰 Polish culture and language. A więc, uczę się Polskiego bo.. dlaczego nie! Ale jest ciężko, na pewno. 
  
  ---
  
