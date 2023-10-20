@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1>
-Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Oliver.
+Hi! I'm Oliver. 👋🏻😀
 </h1>
 <img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairTheCaesar&accessoriesType=Blank&hairColor=BrownDark&facialHairType=BeardLight&facialHairColor=Black&clotheType=CollarSweater&clotheColor=Black&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Light'
 width="200"/>
@@ -10,11 +10,13 @@ width="200"/>
 
 <div id="socials" align="center">
 <h2>:earth_africa: Find me around the web :earth_americas:</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/oliverj1994"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://www.instagram.com/olijones44/"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
-<a href="https://twitter.com/oliverj1994"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
-</p>
+
+[![oliverj.dev](https://img.shields.io/badge/oliverj.dev-000?style=for-the-badge&logoColor=White)](https://oliverj.dev)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliverjjones1994@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oliverj1994)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oliverj1994)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oliver_j94)
+
 </div>
 
 ---
@@ -22,27 +24,29 @@ width="200"/>
 ### :man_technologist: &nbsp;About Me :
 
 * 🧑🏻‍💻 Self taught Junior Web Developer from the UK
-* 🧑🏻‍🏭 Currently working in Aerospace Engineering as a CNC Programmer
+* 🧑🏻‍🏭 Currently working in Aerospace Engineering as a CNC Programming Engineer
 * 🌱 Learning and growing my skillset in my spare time
-* 🔍 Looking for opportunities in the tech industry
+* 🛠️ Transferring my skills from manufacturing engineering to the tech industry
+* 🔍 Looking for opportunities as a Software Developer
 * 💗 Bullet pointed lists
 * 📧 I am reachable at: oliverjjones1994@gmail.com
 
 ---
 
 ### :hammer_and_wrench: &nbsp;Languages and Tools I've used:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-</div>
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ---
 
@@ -54,7 +58,7 @@ width="200"/>
  * 🏀 Basketball. Boston Celtics fan.
  * ⚽ Football. Southend United FC fan.
  * 🎧 Music - all sorts!
- * 🇵🇱🏰 Polish culture and language. A więc, uczę się Polskiego bo.. dlaczego nie! Ale jest ciężko, na pewno. 
+ * 🇵🇱🏰 Polish culture and language. Uczę się polskiego od września 2022 roku. Codziennie mówię, czytam i słucham podcastów po polsku.
  
  ---
  
